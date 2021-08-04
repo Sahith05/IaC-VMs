@@ -1,0 +1,10 @@
+  #subscription_id = "ebce4ad8-42aa-400a-8fda-45c952485d08"
+  #tenant_id       = "a8ffe6b3-0a11-473c-ac18-6bae9f35fc24"
+  environment     = "Dev"
+  location        = "westus2"
+  vm_image_string = "OpenLogic/CentOS/7.5/latest"
+  vm_size         = "Standard_DS2_v2"
+  Appname         = "mfs"
+
+  admin_username  = "adminuser"
+  admin_password  = "Password123!"
